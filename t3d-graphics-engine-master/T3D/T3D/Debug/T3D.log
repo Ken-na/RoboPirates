@@ -1,0 +1,348 @@
+﻿  AnimationTest.cpp
+  Ass2Movie.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\ass2movie.cpp(68): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\ass2movie.cpp(70): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\ass2movie.cpp(72): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\ass2movie.cpp(185): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\ass2movie.cpp(187): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\ass2movie.cpp(221): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\ass2movie.cpp(223): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\ass2movie.cpp(331): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\ass2movie.cpp(333): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\ass2movie.cpp(555): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\ass2movie.cpp(559): warning C4305: 'argument': truncation from 'double' to 'float'
+  Ass2Shader.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\ass2shader.cpp(53): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\ass2shader.cpp(57): warning C4305: 'argument': truncation from 'double' to 'float'
+  CameraMovement.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\cameramovement.cpp(21): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\cameramovement.cpp(21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\cameramovement.cpp(34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CompositeGun.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(25): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(26): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(32): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(33): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(39): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(44): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(46): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(51): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(58): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(62): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(63): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(69): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(70): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(77): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(83): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(84): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(91): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(96): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(97): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(102): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(104): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(109): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(111): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(118): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(120): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(124): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(125): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(149): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(154): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(155): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(158): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(159): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(161): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(165): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(168): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(169): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(171): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(172): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(176): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(183): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\compositegun.cpp(195): warning C4305: 'argument': truncation from 'double' to 'float'
+  GunHandle.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\gunhandle.cpp(29): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\gunhandle.cpp(34): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\gunhandle.cpp(37): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\gunhandle.cpp(41): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\gunhandle.cpp(44): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\gunhandle.cpp(45): warning C4305: 'argument': truncation from 'double' to 'const float'
+  HatFloat.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\hatfloat.cpp(18): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\hatfloat.cpp(19): warning C4305: 'argument': truncation from 'double' to 'float'
+  HoleInTheWall.cpp
+  Animation.cpp
+  Billboard.cpp
+  Bone.cpp
+  Bullet.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\bullet.cpp(30): warning C4305: 'argument': truncation from 'double' to 'float'
+  Camera.cpp
+  Colour.cpp
+  Component.cpp
+  Cube.cpp
+  Cylinder.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\cylinder.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\cylinder.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\cylinder.cpp(25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\cylinder.cpp(28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\cylinder.cpp(33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\cylinder.cpp(35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\cylinder.cpp(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\cylinder.cpp(38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  DiagMessageTask.cpp
+  DrawTask.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(110): warning C4305: '=': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(116): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(117): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(118): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(126): warning C4305: '=': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(266): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(278): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(291): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(306): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(227): warning C4101: 'steps': unreferenced local variable
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(363): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(375): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(388): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(403): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(324): warning C4101: 'steps': unreferenced local variable
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(419): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(421): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(422): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(429): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(431): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(503): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(504): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(509): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(523): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(524): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(529): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(555): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(556): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(561): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(584): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(605): warning C4018: '<': signed/unsigned mismatch
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(606): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(607): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(608): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(668): warning C4018: '<': signed/unsigned mismatch
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(705): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(706): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(707): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(711): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(712): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\drawtask.cpp(713): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Font.cpp
+  Generating Code...
+  Compiling...
+  FontCache.cpp
+  GameObject.cpp
+  GLRenderer.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\glrenderer.cpp(607): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\glrenderer.cpp(609): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\glrenderer.cpp(611): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\glrenderer.cpp(613): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  GLShader.cpp
+  GLTestApplication.cpp
+  GLTestRenderer.cpp
+  HouseBoat.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(123): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(124): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(133): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(136): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(138): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(139): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(148): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboat.cpp(149): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  HouseBoatMove.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboatmove.cpp(16): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\houseboatmove.cpp(16): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Input.cpp
+  KeyboardController.cpp
+  LampBehaviour.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\lampbehaviour.cpp(17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\lampbehaviour.cpp(20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  LiamBillboard.cpp
+  Light.cpp
+  LookAtBehaviour.cpp
+  Main.cpp
+  Material.cpp
+  Math.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\math.cpp(85): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\math.cpp(88): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\math.cpp(91): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Matrix3x3.cpp
+  Matrix4x4.cpp
+  Mesh.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\mesh.cpp(96): warning C4018: '>': signed/unsigned mismatch
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\mesh.cpp(105): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  Music.cpp
+  Oar.cpp
+  OarPaddle.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\oarpaddle.cpp(20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ParticleBehaviour.cpp
+  ParticleEmitter.cpp
+  ParticleGravity.cpp
+  PerfLogTask.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\perflogtask.cpp(77): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\perflogtask.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\perflogtask.cpp(83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Person.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\person.cpp(57): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\person.cpp(231): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\person.cpp(236): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\person.cpp(237): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\person.cpp(241): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\person.cpp(246): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\person.cpp(247): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\person.cpp(250): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\person.cpp(254): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\person.cpp(255): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\person.cpp(259): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\person.cpp(260): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\person.cpp(263): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\person.cpp(267): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\person.cpp(268): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\person.cpp(271): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\person.cpp(276): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\person.cpp(277): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\person.cpp(281): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\person.cpp(289): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Plane.cpp
+  PlaneMesh.cpp
+  Pyramid.cpp
+  Quaternion.cpp
+  Rectangle.cpp
+  Renderer.cpp
+  RotateBehaviour.cpp
+  Shader.cpp
+  ShaderTest.cpp
+  Sound.cpp
+  SoundManager.cpp
+  SoundTestTask.cpp
+  Generating Code...
+  Compiling...
+  Sphere.cpp
+  Sweep.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\sweep.cpp(26): warning C4018: '<': signed/unsigned mismatch
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\sweep.cpp(32): warning C4018: '<': signed/unsigned mismatch
+  SweepPath.cpp
+  T3DApplication.cpp
+  T3DTest.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\t3dtest.cpp(215): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Target.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\target.cpp(23): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\target.cpp(49): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\target.cpp(50): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\target.cpp(51): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\target.cpp(52): warning C4305: 'argument': truncation from 'double' to 'float'
+  Task.cpp
+  Assignment1Test.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\assignment1test.cpp(73): warning C4305: 'argument': truncation from 'double' to 'float'
+  Task1Sweep.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\task1sweep.cpp(36): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\task1sweep.cpp(42): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\task1sweep.cpp(51): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\task1sweep.cpp(59): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\task1sweep.cpp(63): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\task1sweep.cpp(71): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Task2Comp.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\task2comp.cpp(40): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\task2comp.cpp(46): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\task2comp.cpp(61): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\task2comp.cpp(75): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\task2comp.cpp(79): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\task2comp.cpp(87): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\task2comp.cpp(104): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\task2comp.cpp(120): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\task2comp.cpp(137): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\task2comp.cpp(153): warning C4305: 'argument': truncation from 'double' to 'float'
+  TCube.cpp
+  TCylinder.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tcylinder.cpp(23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tcylinder.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tcylinder.cpp(26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tcylinder.cpp(29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tcylinder.cpp(30): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tcylinder.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tcylinder.cpp(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tcylinder.cpp(39): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tcylinder.cpp(60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tcylinder.cpp(62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Terrain.cpp
+  TerrainFollower.cpp
+  Texture.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\texture.cpp(163): warning C4838: conversion from 'int' to 'Uint16' requires a narrowing conversion
+  Transform.cpp
+  Tutorial1.cpp
+  Tutorial4.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tutorial4.cpp(131): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tutorial4.cpp(132): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tutorial4.cpp(133): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tutorial4.cpp(134): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tutorial4.cpp(135): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tutorial4.cpp(136): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tutorial4.cpp(137): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tutorial4.cpp(138): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Lamp.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\lamp.cpp(22): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\lamp.cpp(42): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\lamp.cpp(47): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\lamp.cpp(50): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\lamp.cpp(54): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\lamp.cpp(57): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\lamp.cpp(58): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\lamp.cpp(76): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\lamp.cpp(82): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\lamp.cpp(89): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\lamp.cpp(95): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\lamp.cpp(141): warning C4305: 'argument': truncation from 'double' to 'float'
+  Tutorial5.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tutorial5.cpp(50): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tutorial5.cpp(54): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tutorial5.cpp(62): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Compiling...
+  Tutorial6.cpp
+d:\ddocuments\2019 sem 1\2019 sem 2\kit307 computer graphics\assignment 2\submission\t3d-graphics-engine-master\t3d\t3d\tutorial6.cpp(55): warning C4305: 'argument': truncation from 'double' to 'float'
+  WinGLApplication.cpp
+  Generating Code...
+  T3D.vcxproj -> D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\Debug\T3D.exe
+  D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\lib\fmodex.dll
+  D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\lib\fmodex64.dll
+  D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\lib\glew32.dll
+  D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\lib\glew32mx.dll
+  D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\lib\libFLAC-8.dll
+  D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\lib\libfreetype-6.dll
+  D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\lib\libjpeg-8.dll
+  D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\lib\libmikmod-2.dll
+  D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\lib\libogg-0.dll
+  D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\lib\libpng15-15.dll
+  D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\lib\libtiff-5.dll
+  D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\lib\libvorbis-0.dll
+  D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\lib\libvorbisfile-3.dll
+  D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\lib\libwebp-2.dll
+  D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\lib\SDL.dll
+  D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\lib\SDL_image.dll
+  D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\lib\SDL_mixer.dll
+  D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\lib\SDL_ttf.dll
+  D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\lib\smpeg.dll
+  D:\DDocuments\2019 sem 1\2019 sem 2\KIT307 Computer Graphics\Assignment 2\Submission\t3d-graphics-engine-master\T3D\lib\zlib1.dll
+  20 File(s) copied

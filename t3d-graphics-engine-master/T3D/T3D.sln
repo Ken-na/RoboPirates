@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "T3D", "T3D\T3D.vcxproj", "{A41C2D2A-C0C1-4EE8-9B5A-00EDD049DC2F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{29DB3A5C-C3CD-4535-8974-096A8B43592D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A41C2D2A-C0C1-4EE8-9B5A-00EDD049DC2F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A41C2D2A-C0C1-4EE8-9B5A-00EDD049DC2F}.Debug|Win32.Build.0 = Debug|Win32
+		{A41C2D2A-C0C1-4EE8-9B5A-00EDD049DC2F}.Release|Win32.ActiveCfg = Release|Win32
+		{A41C2D2A-C0C1-4EE8-9B5A-00EDD049DC2F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFE8CFD2-1B60-4E84-B8AF-047C67C6F381}
+	EndGlobalSection
+EndGlobal
